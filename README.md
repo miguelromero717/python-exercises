@@ -23,6 +23,7 @@ This is a repository to expose some exercises to practice Python.
 3. Given a string that contains the following characters `{[( - }])` we need to validate if it is a valid string, indicating if the corresponding pairs are correct. For example:
     - Correct: ```[()]{}{()}```
     - Incorrect: ```[(}]```
+    [Solution](3_validate_string_pairs.py)
 4. Make a program that reads 2 numbers by keyboard and determines the following aspects (it is sufficient to show True or False):
     - If the two numbers are the same
     - If the two numbers are different
