@@ -29,7 +29,9 @@ This is a repository to expose some exercises to practice Python.
     - If the two numbers are different
     - If the first is greater than the second
     - If the second is greater than or equal to the first
+    [Solution](4_flow_control_2.py)
 5. Using logical operators, determine if a user-entered text string has a length greater than or equal to 3 and in turn is less than 10 (it is sufficient to show True or False).
+    [Solution](5_length_string_logical.py)
 6. It carries out a program that complies with the following algorithm using, whenever possible, operators in assignment:
     - Saves the value 12345679 in a magical_number variable (without the 8)
     - Read another user_number on the screen, specify that it is between 1 and 9 (make sure it is a number)
